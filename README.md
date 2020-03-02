@@ -1,0 +1,2 @@
+# curly-guide
+pipeline example
